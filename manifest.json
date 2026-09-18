@@ -1,0 +1,26 @@
+{
+  "name": "JUNTXS — Donde tu silencio encuentra su eco (+18)",
+  "short_name": "JUNTXS",
+  "description": "Plataforma de encuentros, citas inclusivas y speakeasies con Protocolo Ángel SOS 24/7.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07040a",
+  "theme_color": "#07040a",
+  "categories": ["lifestyle", "social"],
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=192&auto=format&fit=crop&q=80",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=512&auto=format&fit=crop&q=80",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
